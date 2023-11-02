@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    text-align: center;
+    padding: 2vh;
+}
+
+.profiles{
+   width: 100vw;
+   height:100vh;
+   display: flex;
+   justify-content: center;
+}
